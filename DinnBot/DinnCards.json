@@ -1,0 +1,1036 @@
+﻿[
+  {
+    "name": "King Arthur",
+    "type": "Hero",
+    "attribute1": "Sentient",
+    "attribute2": "Honor",
+    "attribute3": "Empire",
+    "heartValue": 3,
+    "basePower": 8,
+    "cardText": "You may return an equipment card from your graveyard to your hand. Modify power by +2 for each equipment card equipped to this Hero.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Morgan Le Fay",
+    "type": "Hero",
+    "attribute1": "Sentient",
+    "attribute2": "Honor",
+    "attribute3": "Power",
+    "heartValue": 3,
+    "basePower": 7,
+    "cardText": "You may discard up to two equipment cards from your hand. Increase this Hero's power by the combined base power of the discarded equipment cards.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Mordred",
+    "type": "Hero",
+    "attribute1": "Sentient",
+    "attribute2": "Power",
+    "heartValue": 3,
+    "basePower": 6,
+    "cardText": "After thid reveal, you may exchange any quipment cards equipped to this Hero with equipment cards equipped to your opponent's Hero regardless of attributes.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Ancient Merlin",
+    "type": "Hero",
+    "attribute1": "Sentient",
+    "attribute2": "Empire",
+    "heartValue": 2,
+    "basePower": 5,
+    "cardText": "Select any two equipment cards from your deck and show them to your opponent. Your opponent selects one to add to your hand, and one to discard.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Knight Lancelot",
+    "type": "Hero",
+    "attribute1": "Sentient",
+    "attribute2": "Power",
+    "heartValue": 2,
+    "basePower": 5,
+    "cardText": "You may return an equipment card from your graveyard to your hand or you may draw two cards.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "The Green Knight",
+    "type": "Hero",
+    "attribute1": "Sentient",
+    "attribute2": "Honor",
+    "heartValue": 2,
+    "basePower": 4,
+    "cardText": "Before second reveal, you may discard two equipment cards from your hand to prevent either player from shattering hearts due to battle.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Sir Galahad",
+    "type": "Hero",
+    "attribute1": "Sentient",
+    "attribute2": "Honor",
+    "attribute3": "Empire",
+    "heartValue": 2,
+    "basePower": 4,
+    "cardText": "When this Hero is sent to the graveyard, reveal and equipment card from your hand. The next time you play the revealed equipment card, treat its base power increase as +4.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Young Sir Bors",
+    "type": "Hero",
+    "attribute1": "Sentient",
+    "heartValue": 1,
+    "basePower": 2,
+    "cardText": "You may select  one Hero from your deck, reveal it to your opponent and add it to your hand. Draw a card for every heart on the selected Hero.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Knight Gawain",
+    "type": "Hero",
+    "attribute1": "Sentient",
+    "attribute2": "Honor",
+    "heartValue": 1,
+    "basePower": 2,
+    "cardText": "Send this Hero and your opponent's Hero to the graveyard. Do not shatter any hearts. Start the next round. Your opponent draws two additional cards at the start of the next round.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Armored Iseult",
+    "type": "Hero",
+    "attribute1": "Sentient",
+    "attribute2": "Honor",
+    "heartValue": 1,
+    "basePower": 2,
+    "cardText": "Select up to three cards from your hand and shuffle them into your deck. Draw a card for each card shuffled into your deck.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Mercedes",
+    "type": "Hero",
+    "attribute1": "Sentient",
+    "attribute2": "Honor",
+    "attribute3": "Empire",
+    "heartValue": 1,
+    "basePower": 3,
+    "cardText": "Select an equipment card from your deck and equip it to this Hero face up. Any equipment cards equipped to this hero are returned to yur hand at the end of the round.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Uther Pendragon",
+    "type": "Hero",
+    "attribute1": "Sentient",
+    "attribute2": "Power",
+    "heartValue": 1,
+    "basePower": 2,
+    "cardText": "You may draw a card for every equipment card in your hand or draw a card for every equipment card in your graveyard.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Excalibur",
+    "type": "Equipment",
+    "attribute1": "Sentient",
+    "attribute2": "Honor",
+    "basePower": 3,
+    "cardText": "Modify power by +1 for each equipment card in your hand.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Caliburn",
+    "type": "Equipment",
+    "attribute1": "Sentient",
+    "attribute2": "Empire",
+    "basePower": 3,
+    "cardText": "Modify power by +1 for each equipment card in your graveyard.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Secace",
+    "type": "Equipment",
+    "attribute1": "Sentient",
+    "basePower": 2,
+    "cardText": "Modify power by +2 if you have no action cards in play.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Merlin's Staff",
+    "type": "Equipment",
+    "attribute1": "Sentient",
+    "basePower": 2,
+    "cardText": "Select a Hero from your deck with the same attributes as the Hero this card is equipped to and add it to your hand.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "The Holy Grail",
+    "type": "Equipment",
+    "attribute1": "Sentient",
+    "attribute2": "Honor",
+    "attribute3": "Empire",
+    "basePower": 5,
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Shield of Faith",
+    "type": "Equipment",
+    "attribute1": "Sentient",
+    "basePower": 1,
+    "cardText": "You may discard an equipment card when this card is revealed. If you do, modify power by +3",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Gwyrdd Belt",
+    "type": "Equipment",
+    "attribute1": "Sentient",
+    "basePower": 1,
+    "cardText": "The hero equipped with this card is treated as if it has one less heart.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Sunlight Galatine",
+    "type": "Equipment",
+    "attribute1": "Sentient",
+    "basePower": 2,
+    "cardText": "You may discard this card after any reveal. When this card is sent to the graveyard you may retun another equipment card from the graveyard to your hand.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Trebuchet's Final Sword",
+    "type": "Equipment",
+    "attribute1": "Sentient",
+    "basePower": 3,
+    "cardText": "If your Hero and your opponent's Hero have the same power at the end of the round you may modify your Hero's power by an additional +1.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Mordred's Cursed Blade",
+    "type": "Equipment",
+    "attribute1": "Sentient",
+    "attribute2": "Power",
+    "basePower": 0,
+    "cardText": "When equipped to a Hero, the original owner of this card may choose to modify power by +3 or -3.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Spear of Longinus",
+    "type": "Equipment",
+    "attribute1": "Sentient",
+    "basePower": 1,
+    "cardText": "Modify power by +1 for each equipment card in play except this card.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Scutum",
+    "type": "Equipment",
+    "attribute1": "Sentient",
+    "attribute2": "Power",
+    "basePower": 5,
+    "cardText": "If you win this round your opponent does not shatter heart's due to battle.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Wounding Strike",
+    "type": "Action",
+    "attribute1": "Sentient",
+    "attribute2": "Empire",
+    "cardText": "Double the base power of any equipment card equipped to your Hero.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "A Wizard's Curse",
+    "type": "Action",
+    "attribute1": "Sentient",
+    "attribute2": "Honor",
+    "cardText": "Negate the ability of both your hero and your opponent's Hero.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Lady of the Lake",
+    "type": "Action",
+    "attribute1": "Sentient",
+    "cardText": "Draw five cards from your deck and discard all cards that are not equipment cards.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Uprising",
+    "type": "Action",
+    "attribute1": "Sentient",
+    "attribute2": "Power",
+    "cardText": "Return all equipment cards from your graveyard to your hand.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Call to Action",
+    "type": "Action",
+    "attribute1": "Sentient",
+    "cardText": "At the beginning of the next round you may draw five cards instead of two. Discard any equipment cards drawn by this ability.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Sword in the stone",
+    "type": "Action",
+    "attribute1": "Sentient",
+    "cardText": "Select two Heroes from your deck. Your opponent chooses one to add to your hand and one to shuffle back into your deck.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "The King is dead",
+    "type": "Action",
+    "attribute1": "Sentient",
+    "cardText": "Discard one equipment card from your hand and return one of your shattered hearts from your graveyard to play.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Long live the King",
+    "type": "Action",
+    "attribute1": "Sentient",
+    "cardText": "Exchange this card with an equipment card from your graveyard and equip it to your hero.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Fateful Challenge",
+    "type": "Action",
+    "attribute1": "Sentient",
+    "cardText": "Draw two cards from your deck. If you draw a Hero you may increase your in-play Hero's power by the power of the Hero you just drew.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Noble Sacrifice",
+    "type": "Action",
+    "attribute1": "Sentient",
+    "cardText": "Draw three cards from your deck or have your opponent discard two cards from their hand.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Betrayal",
+    "type": "Action",
+    "attribute1": "Sentient",
+    "cardText": "Discard an equipment card from your hand and increase your Hero's power by the base power of the discarded equipment card.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "A Warship Emerges",
+    "type": "Action",
+    "attribute1": "Sentient",
+    "cardText": "Negate the abilities of all equipment cards in play.",
+    "released": "Sentient Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Leviathan",
+    "type": "Hero",
+    "attribute1": "Beast",
+    "attribute2": "Hunger",
+    "attribute3": "Breed",
+    "heartValue": 3,
+    "basePower": 6,
+    "cardText": "Modify this Hero's power by +3 for every shattered heart in your graveyard.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Great Sphinx",
+    "type": "Hero",
+    "attribute1": "Beast",
+    "attribute2": "Pack",
+    "attribute3": "Hunger",
+    "heartValue": 3,
+    "basePower": 6,
+    "cardText": "You may shatter one of your hearts. If ou do, negate the abilities of your opponent's equipment cards this round.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Glas Dragon",
+    "type": "Hero",
+    "attribute1": "Beast",
+    "heartValue": 3,
+    "basePower": 12,
+    "cardText": "Shatter two of your hearts when this Hero is revealed.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Kraken",
+    "type": "Hero",
+    "attribute1": "Beast",
+    "attribute2": "Hunger",
+    "heartValue": 2,
+    "basePower": 5,
+    "cardText": "When this Hero is sent to the graveyard, draw three cards. This card is treated as two shattered hearts while in the graveyard.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Gorgon",
+    "type": "Hero",
+    "attribute1": "Beast",
+    "attribute2": "Pack",
+    "heartValue": 2,
+    "basePower": 4,
+    "cardText": "Modify this Hero's power by +1 for every shattered heart in your graveyard. If this Hero is victorious in battle it is treated as two shattered hearts while in the graveyard.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Minotaur",
+    "type": "Hero",
+    "attribute1": "Beast",
+    "heartValue": 2,
+    "basePower": 4,
+    "cardText": "You may shatter one of your hearts when this Hero is revealed. If you do you may add a card from your graveyard to your hand.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "White Elephant",
+    "type": "Hero",
+    "attribute1": "Beast",
+    "attribute2": "Pack",
+    "attribute3": "Breed",
+    "heartValue": 2,
+    "basePower": 4,
+    "cardText": "You may shatter one of your hearts when this Hero is revealed. If you do you may draw two cards and your opponent must discard one card.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Great White",
+    "type": "Hero",
+    "attribute1": "Beast",
+    "attribute2": "Breed",
+    "heartValue": 1,
+    "basePower": 2,
+    "cardText": "Modify this Hero's power by +3 if one of your hearts was shattered during the last round.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Grendel",
+    "type": "Hero",
+    "attribute1": "Beast",
+    "attribute2": "Hunger",
+    "heartValue": 1,
+    "basePower": 3,
+    "cardText": "Send this Hero and your opponent's Hero to the graveyard. DO not shatter any hearts. Start the next round. Modify the power of the next Hero your opponent plays by +1.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Pegasus",
+    "type": "Hero",
+    "attribute1": "Beast",
+    "heartValue": 1,
+    "basePower": 3,
+    "cardText": "Draw two cards when this Hero is revealed. This Hero is treated as a shattered heart while in the graveyard.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Phoenix",
+    "type": "Hero",
+    "attribute1": "Beast",
+    "attribute2": "Pack",
+    "heartValue": 1,
+    "basePower": 2,
+    "cardText": "You may return this Hero from your graveyard to your hand at the beginning of any round.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Beast of Gevaudan",
+    "type": "Hero",
+    "attribute1": "Beast",
+    "attribute2": "Pack",
+    "heartValue": 1,
+    "basePower": 5,
+    "cardText": "When this Hero is revealed, either discard three cards from your hand or shatter one of your hearts. This Hero's power cannot be decreased.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Furious Fangs",
+    "type": "Equipment",
+    "attribute1": "Beast",
+    "basePower": 2,
+    "cardText": "This card is treated as a shattered heart while in the graveyard.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Blessing of the Gods",
+    "type": "Equipment",
+    "attribute1": "Beast",
+    "attribute2": "Breed",
+    "basePower": 1,
+    "cardText": "Modify power by +2 if you have lss than three hearts in play.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Armored Scales",
+    "type": "Equipment",
+    "attribute1": "Beast",
+    "attribute2": "Pack",
+    "basePower": 1,
+    "cardText": "Modify power by +2 if your opponent's Hero has more hearts than your Hero.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Metal Tusks",
+    "type": "Equipment",
+    "attribute1": "Beast",
+    "basePower": 2,
+    "cardText": "Draw two cards if you are victorious this round.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Gorgon's Glare",
+    "type": "Equipment",
+    "attribute1": "Beast",
+    "basePower": 2,
+    "cardText": "Your opponent must discard two cards if you are victorious this round.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Ulysses' Spear",
+    "type": "Equipment",
+    "attribute1": "Beast",
+    "basePower": 2,
+    "cardText": "Modify power by +2 if you have two or more shattered hearts in your graveyard.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Eyes of the Newt",
+    "type": "Equipment",
+    "attribute1": "Beast",
+    "basePower": 2,
+    "cardText": "You may discard a Hero from your hand to modify your Hero's power by +2.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Phoenix Feather",
+    "type": "Equipment",
+    "attribute1": "Beast",
+    "basePower": 2,
+    "cardText": "If your Hero is defeated, your may add it to your hand instead of sending it to the graveyard.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Poisonous Bite",
+    "type": "Equipment",
+    "attribute1": "Beast",
+    "basePower": 2,
+    "cardText": "Equip this card to your opponent's Hero, and equip one of your opponent's in play equipment cards to your Hero while ignoring the attribute requirements of both cards.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Infinite Webs",
+    "type": "Equipment",
+    "attribute1": "Beast",
+    "basePower": 1,
+    "cardText": "Modify your opponent's Heroe's power by -1 for each equipment card equipped to that Hero.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Heavy Steel Spikes",
+    "type": "Equipment",
+    "attribute1": "Beast",
+    "attribute2": "Hunger",
+    "basePower": 4,
+    "cardText": "Negate the ability of the hero equippd with this card.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Faerie Rings",
+    "type": "Action",
+    "attribute1": "Beast",
+    "cardText": "You and your opponent may each return a shattered heart from your respective graveyards to play.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Vicious Intent",
+    "type": "Action",
+    "attribute1": "Beast",
+    "attribute2": "Hunger",
+    "cardText": "Draw three cards if you have less than three hearts in play.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Fight",
+    "type": "Action",
+    "attribute1": "Beast",
+    "attribute2": "Breed",
+    "cardText": "Draw one card for each shattered heart in both players' graveyards.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Flight",
+    "type": "Action",
+    "attribute1": "Beast",
+    "cardText": "Discard up to two Heroes. Draw cards equal to the number of hearts on each Hero.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Survival",
+    "type": "Action",
+    "attribute1": "Beast",
+    "cardText": "Shatter one of your hearts if you have two or more hearts in play. Your opponent must discard two cards.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Fury of a Monster",
+    "type": "Action",
+    "attribute1": "Beast",
+    "cardText": "Select a single heart Hero from your graveyard and decrease your opponent's Heroe's power by the selected Hero's power.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Only Teeth and Claws",
+    "type": "Action",
+    "attribute1": "Beast",
+    "cardText": "Shatter one of your hearts if you have two or more hearts in play. Negate the ability of an equipment card in play.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "The Blood Circle",
+    "type": "Action",
+    "attribute1": "Beast",
+    "cardText": "Shatter one of your hearts if you have two or more hearts in play. Modify the power of your opponent's Hero by -3.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Mountain's Heart",
+    "type": "Action",
+    "attribute1": "Beast",
+    "cardText": "You may only play this card if you have less than three hearts in play. Return a shattered heart from your graveyard to play at the end of the round.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "From the Flame",
+    "type": "Action",
+    "attribute1": "Beast",
+    "cardText": "You may select a Hero from your graveyard and add it to your hand.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Cornered Beast",
+    "type": "Action",
+    "attribute1": "Beast",
+    "cardText": "Modify the base power of your Hero to be equal to the base power of your opponent's Hero.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Rip and Tear",
+    "type": "Action",
+    "attribute1": "Beast",
+    "attribute2": "Pack",
+    "cardText": "Shatter one of your hearts if you have two or more hearts in play. Return a shattered heart from your graveyard to play.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Snake Pipe",
+    "type": "Equipment",
+    "attribute1": "Beast",
+    "attribute2": "Hunger",
+    "cardText": "Modify power by +1 for each shattered heart in your graveyard.",
+    "released": "Beast Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Azothoth the Fool",
+    "type": "Hero",
+    "attribute1": "Horror",
+    "attribute2": "Madness",
+    "heartValue": 3,
+    "basePower": 10,
+    "cardText": "You may exchange this Hero from your hand at the end of second reveal. If played in this way, modify power by -3 and treat this Hero as though it has every horror attribute.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Dracula",
+    "type": "Hero",
+    "attribute1": "Horror",
+    "attribute2": "Death",
+    "attribute3": "Madness",
+    "heartValue": 3,
+    "basePower": 7,
+    "cardText": "While this Hero is in your graveyard, you may banish three Heroes from your graveyard and exchange this Hero at the end of third reveal.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "The Devil",
+    "type": "Hero",
+    "attribute1": "Horror",
+    "attribute2": "Death",
+    "heartValue": 3,
+    "basePower": 6,
+    "cardText": "At the end of third reveal you may banish three Heroes to destroy all in-play equipment cards, or you may banish six Heroes to destroy only your opponent's in-play equipment cards.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "The King in Yellow",
+    "type": "Hero",
+    "attribute1": "Horror",
+    "attribute2": "Madness",
+    "heartValue": 2,
+    "basePower": 5,
+    "cardText": "You may exchange this Hero from your hand at the end of second reveal. If played this way, treat this Hero as though it has every horror attribute.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Jack the Ripper",
+    "type": "Hero",
+    "attribute1": "Horror",
+    "attribute2": "Death",
+    "heartValue": 2,
+    "basePower": 5,
+    "cardText": "You may exchange this Hero from your hand at the end of second reveal. If played this way, you may negate an in--play Hero ability.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Swamp Creature",
+    "type": "Hero",
+    "attribute1": "Horror",
+    "attribute2": "Fear",
+    "heartValue": 2,
+    "basePower": 5,
+    "cardText": "If this in-play Hero is exchanged, your opponent must exchange their in-play Hero with a Hero from their hand (if able), at the end of the reveal.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Frankenstein's Monster",
+    "type": "Hero",
+    "attribute1": "Horror",
+    "attribute2": "Death",
+    "attribute3": "Fear",
+    "heartValue": 2,
+    "basePower": 4,
+    "cardText": "While this Hero is in your graveyard, you may banish a Hero from your graveyard and exchange this Hero at the end of second reveal.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "The Cultist",
+    "type": "Hero",
+    "attribute1": "Horror",
+    "attribute2": "Death",
+    "attribute3": "Madness",
+    "heartValue": 1,
+    "basePower": 3,
+    "cardText": "If this in-play Hero is exchanged, modify an in-play Hero's power by -2 and send this Hero to the graveyard.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Witches of Salem",
+    "type": "Hero",
+    "attribute1": "Horror",
+    "heartValue": 1,
+    "basePower": 3,
+    "cardText": "If this in-play Hero is exchanged, you may draw three cards and send this Hero to the graveyard.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "The Mummy",
+    "type": "Hero",
+    "attribute1": "Horror",
+    "heartValue": 1,
+    "basePower": 3,
+    "cardText": "You may exchange this Hero from your hand at the end of first reveal. If played in this way, you may randomly return a card from your graveyard.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Priest of the Ancients",
+    "type": "Hero",
+    "attribute1": "Horror",
+    "attribute2": "Fear",
+    "heartValue": 1,
+    "basePower": 2,
+    "cardText": "Terminate the round upon reveal. Your opponent may randomly draw two cards from their graveyard instead of drawing from their deck next round.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Dracula's Bride",
+    "type": "Hero",
+    "attribute1": "Horror",
+    "attribute2": "Death",
+    "heartValue": 1,
+    "basePower": 1,
+    "cardText": "You may select a Hero from your deck and send it to the graveyard. Modify this Hero's power equal to the heart-value of the select Hero (+1, +2 or +3)",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "The Magic Mirror",
+    "type": "Equipment",
+    "attribute1": "Horror",
+    "attribute2": "Fear",
+    "basePower": 3,
+    "cardText": "Upon reveal, you may modify the base power of this equipment card to be equal to the base power of one of your opponent's equipment cards.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Death's Touch",
+    "type": "Equipment",
+    "attribute1": "Horror",
+    "attribute2": "Madness",
+    "basePower": 3,
+    "cardText": "Destroy the card your opponent simultaneously reveals with this card. Your opponent may draw two cards, and choose to reveal a replacement.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Poisonous Apple",
+    "type": "Equipment",
+    "attribute1": "Horror",
+    "attribute2": "Death",
+    "basePower": 3,
+    "cardText": "If the equipped Hero is victorious you may return any card from your graveyard.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Djinn's Ring",
+    "type": "Equipment",
+    "attribute1": "Horror",
+    "basePower": 3,
+    "cardText": "You may discard this card from your hand as if it was a double-heart Hero.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Necronomicon",
+    "type": "Equipment",
+    "attribute1": "Horror",
+    "basePower": 2,
+    "cardText": "Modify power by an additional +2 while you have two or fewer Heroes in your graveyard.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "The Guillotine",
+    "type": "Equipment",
+    "attribute1": "Horror",
+    "basePower": 2,
+    "cardText": "If the equipped Hero was exchanged this round, modify power by an additional +2.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Executioner's Blade",
+    "type": "Equipment",
+    "attribute1": "Horror",
+    "basePower": 2,
+    "cardText": "If the equipped Hero is victorious you may return a different Hero from your graveyard. You may banish this card from your graveyard as if it was a Hero.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Sacrificial Dagger",
+    "type": "Equipment",
+    "attribute1": "Horror",
+    "basePower": 1,
+    "cardText": "You may discard a Hero upon reveal. Modify power equal to the heart-value of the discarded Hero (+1, +2, or +3).",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "The Game",
+    "type": "Equipment",
+    "attribute1": "Horror",
+    "basePower": 1,
+    "cardText": "You may discard any number of Heroes upon reveal. The Hero equipped with this card is treated as if it has one less heart for each Hero discarded due to this ability.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "A Cursed Painting",
+    "type": "Equipment",
+    "attribute1": "Horror",
+    "basePower": 1,
+    "cardText": "If the equipped Hero is defeated, you may return a different Hero from your graveyard. Draw cards equal to the heart-value of the returned Hero.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Ancient Ankh",
+    "type": "Equipment",
+    "attribute1": "Horror",
+    "attribute2": "Death",
+    "attribute3": "Madness",
+    "basePower": 4,
+    "cardText": "If you have no Heroes in your graveyard, modify power by an additional +2. You may banish this card from your graveyard as if it was three Heroes.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Monkey's Paw",
+    "type": "Equipment",
+    "attribute1": "Horror",
+    "basePower": 4,
+    "cardText": "Destroy this card if you have any other equipment cards in play. Negate the ability of the Hero equipped with this card.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Blood Moon",
+    "type": "Action",
+    "attribute1": "Horror",
+    "cardText": "Upon reveal, you may discard a Hero. Modify the power of an in-play Hero by the heart-value (+1, +2 or +3) of the discarded Hero.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Endless Task",
+    "type": "Action",
+    "attribute1": "Horror",
+    "cardText": "Select one of your opponent's equipment or action cards. While you have three or fewer Heroes in your graveyard, negate the ability of the selected card.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "The Haunted Place",
+    "type": "Action",
+    "attribute1": "Horror",
+    "cardText": "Randomly add three banished cards to your graveyard.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Horrible Return",
+    "type": "Action",
+    "attribute1": "Horror",
+    "cardText": "Return any Hero from your graveyard. Draw cards equal to the heart-value of the returned Hero (1, 2 or 3 cards).",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Time Itself",
+    "type": "Action",
+    "attribute1": "Horror",
+    "attribute2": "Madness",
+    "cardText": "Negatively modify the power of all in-play Heroes equal to double their heart-value (-2, -4 or -6). You may banish this card from your graveyard as if it was a Hero.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Cask of Amontillado",
+    "type": "Action",
+    "attribute1": "Horror",
+    "attribute2": "Fear",
+    "cardText": "Destroy all in-play equipment or action cards. Modify your Hero's power by -2 for each card destroyed with this ability.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Insanity",
+    "type": "Action",
+    "attribute1": "Horror",
+    "cardText": "Banish any number of Heroes from your graveyard and draw cards equal to the number of Heroes you banished.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "The Dark Forest",
+    "type": "Action",
+    "attribute1": "Horror",
+    "attribute2": "Death",
+    "cardText": "Negate all in-play Hero abilities. If you have two or fewer Heroes in your graveyard, negate only your opponent's in -play Hero ability instead.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Witch Trials",
+    "type": "Action",
+    "attribute1": "Horror",
+    "cardText": "Your opponent must reveal their hand. Select a Hero card from their hand and send it to the graveyard. Draw cards equal to the heart-value of the discarded Hero.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "The Cult Appears",
+    "type": "Action",
+    "attribute1": "Horror",
+    "cardText": "Look at the top five cards of your deck. Select three and add them to your hand. Send the remaining two to your graveyard.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Mountain of Madness",
+    "type": "Action",
+    "attribute1": "Horror",
+    "cardText": "You may select a card from your opponent's deck and send it to the graveyard.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  },
+  {
+    "name": "Buried Alive",
+    "type": "Action",
+    "attribute1": "Horror",
+    "cardText": "Treat your in-play Hero as if it has one less heart while you have three or fewer Heroes in your graveyard.",
+    "released": "Horror Starter",
+    "imageurl": "https://image.shutterstock.com/image-vector/silhouette-missing-person-stamp-260nw-752963539.jpg"
+  }
+]
